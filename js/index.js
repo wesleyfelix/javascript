@@ -38,7 +38,4 @@ for (var i = 0; i < pacientes.length; i++){
 
 console.log(pacientes);
 
-
-
-
 console.log(imc);
